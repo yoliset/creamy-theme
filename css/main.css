@@ -13,7 +13,33 @@
     font-size:18px;
     transition:all 0.5s;
 }
+/*.......................... hero  */
 
+
+.hero {
+    background: url(../img/creamy.jpg) no-repeat center center;
+    background-size:cover;
+    color: white;
+}   
+
+.hero .frase{
+    padding-top: 70px;
+    padding-bottom: 100px;
+    
+}
+.hero  h1{
+    font-size: 50px;
+}
+.hero p{
+    font-size: 14px;
+    padding-top: 5px;
+    color: white;
+
+}
+.degradado{
+	height: 100%;
+	background-color:rgba(15, 16, 15, 0.71);
+}
 /*.......................... Section Creamy  */
 .creamy{
 	background-color:rgb(244,240,187); ;
