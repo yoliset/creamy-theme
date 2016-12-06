@@ -1,1 +1,15 @@
-/* Inserta tu código aquí */
+/*----------------------header--------------------*/
+.navbar {
+    background:rgb(218,44,56) !important;
+    border: none;
+}
+.navbar a {
+    color:#fff !important;
+}
+.nav li a:hover, .nav li a:focus {
+    font-weight: bold !important;
+}
+.nav li:hover {
+    font-size:18px;
+    transition:all 0.5s;
+}
