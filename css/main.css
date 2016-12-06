@@ -4,12 +4,12 @@ body {
 p, a {
     font-family: "Open Sans", sans-serif;
 }
-.creamy, .contenido {
+.creamy, .contacto {
     background: rgb(244,240,187);
     color: rgb(218,44,56);
 }
 
-/*----------------------header--------------------*/
+/*------------------------------------HEADER */
 .navbar {
     background:rgb(218,44,56) !important;
     border: none;
@@ -47,7 +47,6 @@ p, a {
     font-size: 14px;
     padding-top: 5px;
     color: white;
-
 }
 .degradado{
 	height: 100%;
@@ -67,23 +66,15 @@ h3,p{
 	width: 100%;
 }
 /*-------------------------------------ABOUT */
-
 .about {
-    background:#DB333E;
+    padding: 60px 0;
+    background: rgb(218,44,56);
+    color: rgb(244,240,187);
 }
-h3 {
-	font-family: "Merriweather"!important;
+.about p {
+    color: rgb(244,240,187);
 }
-
-
-.seccion2{
-	color: beige;
-	text-align: center;
-	padding: 10px;
-	height: 250px;
-}
-
-/*-------------------------------------CONTENIDO*/
+/*-------------------------------------CONTACTO*/
 .contacto{
     padding: 40px 0 80px 0;
 }
