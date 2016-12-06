@@ -29,3 +29,21 @@ h3,p{
 .helado{
 	width: 100%;
 }
+
+
+/*.......................... Section About  */
+
+.about {
+    background:#DB333E;
+}
+h3 {
+	font-family: "Merriweather"!important;
+}
+
+
+.seccion2{
+	color: beige;
+	text-align: center;
+	padding: 10px;
+	height: 250px;
+}
